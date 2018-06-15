@@ -3,9 +3,7 @@
 ***
 
 # How Buildings Learn
-*by Stewart Brand*
-
-
+*by Stewart Brand* <space><space>
 
 > Almost no buildings adapt well. They’re *designed* not to adapt; also budgeted and financed not to, constructed not to, administered not to, maintained not to, regulated and taxed not to, even remodeled not to. But all buildings (except monuments) adapt anyway, however poorly, because the usages in and around them are changing constantly.
 
