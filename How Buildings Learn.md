@@ -2,8 +2,7 @@
 
 ***
 
-# How Buildings Learn
-*by Stewart Brand*
+# How Buildings Learn — Stewart Brand
 
 - [Rent from your library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
 - [Learn more about the author](https://en.wikipedia.org/wiki/Stewart_Brand)
