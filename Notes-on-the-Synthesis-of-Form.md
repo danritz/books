@@ -55,3 +55,7 @@ Another reminder that you don’t, and can’t, really know wether or not someth
 > For most requirements it is important only to satisfy them at a level which suffices to prevent misfit between the form and context, and to do this in the least arbitrary manner possible.
 
 Least arbitrary manner possible. This may be my favorite phrase in the book. Minimum viable product? No thanks. Subtle, but profound. It’s not doing the least amount of work to make something people care about. It’s improving people’s lives without making them shift and change and adapt in ways they don’t understand.
+
+***
+
+&larr; [All books](https://github.com/danritz/books/blob/master/README.md)
