@@ -5,7 +5,7 @@
 # Scientific Advertising — Claude Hopkins
 
 - [Rent from a local library](http://www.worldcat.org/title/scientific-advertising/oclc/881162919)
-- [Buy on Amazon (and leave review)](https://en.wikipedia.org/wiki/Claude_C._Hopkins)
+- [Buy on Amazon (and leave review)](https://www.amazon.com/Scientific-Advertising-Claude-C-Hopkins/dp/1616403934/)
 - [Learn more about the author](https://en.wikipedia.org/wiki/Claude_C._Hopkins)
 
 > Don’t think of the people in the mass. That gives you a blurred view. Think of a typical individual, man or women who is likely to want what you sell. Don’t try to be amusing. Money spending is a serious matter. Don’t boast, for all people resent it. Don’t try to show off. Do just what you think a good salesman should do with a half-sold person before him.
