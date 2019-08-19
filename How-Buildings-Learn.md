@@ -69,7 +69,7 @@ So, so true.
 
 ***
 
-- [Rent 'How Buildings Learn' from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
+- [Rent *How Buildings Learn* from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
 - [Learn more about Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 ***
