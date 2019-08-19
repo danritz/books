@@ -1,12 +1,9 @@
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
 
+# Notes on the Synthesis of Form
+Christopher Alexander (1964)
+
 ***
-
-# Notes on the Synthesis of Form — Christopher Alexander
-
-- [Rent from a local library](https://www.worldcat.org/title/notes-on-the-synthesis-of-form/oclc/249367160)
-- [Buy on Amazon (and leave review)](https://www.amazon.com/Notes-Synthesis-Form-Harvard-Paperbacks/dp/0674627512/)
-- [Learn more about the author](https://en.wikipedia.org/wiki/Christopher_Alexander)
 
 > There is a good deal of superstition among designers as to the deathly effect of analysis on their intuitions — with the  unfortunate result that very few designers have tried to understand the process of design analytically.
 
@@ -55,6 +52,11 @@ Another reminder that you don’t, and can’t, really know wether or not someth
 > For most requirements it is important only to satisfy them at a level which suffices to prevent misfit between the form and context, and to do this in the least arbitrary manner possible.
 
 Least arbitrary manner possible. This may be my favorite phrase in the book. Minimum viable product? No thanks. Subtle, but profound. It’s not doing the least amount of work to make something people care about. It’s improving people’s lives without making them shift and change and adapt in ways they don’t understand.
+
+## Read more
+
+- [Rent *Notes on the Synthesis of Form* from your local library](https://www.worldcat.org/title/notes-on-the-synthesis-of-form/oclc/249367160)
+- [Learn more about Christopher Alexander](https://en.wikipedia.org/wiki/Christopher_Alexander)
 
 ***
 
