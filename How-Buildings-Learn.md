@@ -1,7 +1,5 @@
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
 
-***
-
 # How Buildings Learn
 Stewart Brand
 
