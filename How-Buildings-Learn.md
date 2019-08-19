@@ -1,9 +1,9 @@
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
 
+***
+
 # How Buildings Learn
 Stewart Brand (1994)
-
-***
 
 > Almost no buildings adapt well. They’re *designed* not to adapt; also budgeted and financed not to, constructed not to, administered not to, maintained not to, regulated and taxed not to, even remodeled not to. But all buildings (except monuments) adapt anyway, however poorly, because the usages in and around them are changing constantly.
 
@@ -69,5 +69,7 @@ So, so true.
 
 - [Rent *How Buildings Learn* from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
 - [Learn more about Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
+
+***
 
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
