@@ -3,7 +3,7 @@
 ***
 
 # How Buildings Learn
-*by Stewart Brand*
+Stewart Brand
 
 ***
 
