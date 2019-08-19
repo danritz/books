@@ -2,11 +2,8 @@
 
 ***
 
-# How Buildings Learn — Stewart Brand
-
-- [Rent from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
-- [Buy on Amazon (and leave review)](https://www.amazon.com/How-Buildings-Learn-Happens-Theyre/dp/0140139966/)
-- [Learn more about the author](https://en.wikipedia.org/wiki/Stewart_Brand)
+# How Buildings Learn
+## — Stewart Brand
 
 > Almost no buildings adapt well. They’re *designed* not to adapt; also budgeted and financed not to, constructed not to, administered not to, maintained not to, regulated and taxed not to, even remodeled not to. But all buildings (except monuments) adapt anyway, however poorly, because the usages in and around them are changing constantly.
 
@@ -67,6 +64,11 @@ It seems like software development is clawing its way out of a similar situation
 > Evolutionary design is healthier than visionary design.
 
 So, so true.
+
+***
+
+- [Rent from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
+- [Learn more about Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 ***
 
