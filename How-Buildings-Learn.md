@@ -69,13 +69,9 @@ It seems like software development is clawing its way out of a similar situation
 
 So, so true.
 
-***
-
 - [Rent *How Buildings Learn* from a local library](https://www.worldcat.org/title/how-buildings-learn-what-happens-after-theyre-built/oclc/824627949)
 - [Learn more about Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
-
-
-
+***
 
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
