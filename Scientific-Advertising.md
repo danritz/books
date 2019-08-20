@@ -23,7 +23,7 @@ Customer needs are more important than business needs. They both matter. They ar
 
 > What you have will interest certain people only, and for certain reasons. You care only for those people. Then create a headline which will hail those people only.
 
-It’s okay for people not to like what you’re selling. Don’t dilute it to persuade them. Knowing that someone doesn’t like it might clarify how it could work for you. If it isn’t resonating with a large enough audience, don’t water it down. Instead, do the hard work of finding something better.
+It’s okay for people not to like what you’re selling. Don’t dilute it to persuade them. Knowing that someone doesn’t like it might clarify how it could work for you. If it isn’t resonating with a large enough audience, don’t water it down. Instead, do the hard work of making it better.
 
 > All guesswork is eliminated. Every mistake is conspicuous. One quickly loses this conceit by learning how often his judgment errs – often nine times in ten. There one learns that advertising must be done on a scientific basis to have any fair chance of success.
 
