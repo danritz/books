@@ -1,9 +1,9 @@
 &larr; [All books](https://github.com/danritz/books/blob/master/README.md)
 
-***
-
 # Scientific Advertising
 Claude Hopkins (1923)
+
+***
 
 > Don’t think of the people in the mass. That gives you a blurred view. Think of a typical individual, man or women who is likely to want what you sell. Don’t try to be amusing. Money spending is a serious matter. Don’t boast, for all people resent it. Don’t try to show off. Do just what you think a good salesman should do with a half-sold person before him.
 
